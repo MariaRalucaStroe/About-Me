@@ -1,2 +1,2 @@
 # About-Me
-i built an html page, where I shortly introduce myself, after watching this tutorial: https://www.youtube.com/watch?v=kUMe1FH4CHE
+I built an html page, where I shortly introduce myself, after watching this tutorial: https://www.youtube.com/watch?v=kUMe1FH4CHE
