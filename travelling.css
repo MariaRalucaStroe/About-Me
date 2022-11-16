@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(background.jpg);
+}
+h2{
+    color: slategrey;
+    text-align: center;
+}
+
+
+.train {
+    border-radius: 25% 10%;
+    box-shadow: 10px 10px 5px lightblue;
+}
+.nature {
+    border-radius: 50%;
+    margin-left: 5px;
+    
+}
+.castle {
+    border: 10px solid #000;
+}
+
+figcaption {
+    color: white;
+    font-size: 20px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+footer p a {
+    color: black;
+    font-style: italic;
+    font-weight: bolder;
+}
